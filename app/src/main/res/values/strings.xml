@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Just Java</string>
+
+    <!--Strings for the XML (first one also for the java file)-->
+    <string name="nameofperson">Name:</string>
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Quantity</string>
+    <string name="order">Order</string>
+    <!-- Strings for the order summary-->
+    <string name="addWC">With whipped cream?</string>
+    <string name="addCH">With chocolate?</string>
+    <string name="quant2">Quantity: </string>
+    <string name="total">Total: </string>
+    <string name="thanks">Thanks mofo!</string>
+
+    <!-- Strings for Toasts -->
+
+    <string name="retard">You like that don\'t you retard?</string>
+    <string name="giveus">You want to give us Coffee?</string>
+
+</resources>
